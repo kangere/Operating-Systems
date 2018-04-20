@@ -1,0 +1,35 @@
+	boot 
+		- Reboots the system and restarts the operating system.
+	
+	cls  
+		- Clears the screen of the shell
+	
+	copy file1 file2
+		-Creates file2 and copys all the bytes of file1 to file2 without deleting file1. 
+
+	del  filename
+		- Delete the named file  by clearing the appropriate map entries and marking it as deleted in the directory.
+
+	dir 
+		- Lists disk directory contents
+	
+	echo comment
+		- Displays comment on screen followed by a new line 
+	
+	help 
+		- Displays the user manual
+
+	lprint  filename
+		- Loads filename and displays it
+	
+	run filename 
+		- runs the program call filename
+
+	setenv fg color and setenv bg color
+		- Changes the foreground or background color
+
+	tweet filename
+		- Creates a text file and allows you to write 140 characters to it
+	
+	type filename
+		- displays file called filename on the terminal
