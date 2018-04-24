@@ -3,9 +3,9 @@
 
     Compiling - Call make and Makefile will create an executable called 
     			shell
-    		  - execute shell and program will start running	
+    		- execute shell and program will start running	
 
-    Usage	  - The shell works like most unix shells and has the 					following commands: 
+    Usage	  - The shell works like most unix shells and has the following commands: 
     				C file1 file2 
 						copies  contents of file1 into file2.
 					D filename 
